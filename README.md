@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/taylan-deveci/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devecitaylan@gmail.com) 
 
 ### Personal Website
-https://taylandeveci.github.io/
+[![Website](https://img.shields.io/badge/Visit%20My%20Website-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://taylandeveci.github.io/)
 
 ### 🛠 Tech Stack
 
