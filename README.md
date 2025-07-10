@@ -8,8 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taylan-deveci/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devecitaylan@gmail.com)
 [![Website](https://img.shields.io/badge/Website-1E90FF?logo=google-chrome&logoColor=white)](https://taylandeveci.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/taylandeveci)
-
 
 ### 🛠 Tech Stack
 
