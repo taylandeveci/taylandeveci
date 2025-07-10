@@ -3,16 +3,8 @@
 - 🎓 3rd year Computer Engineering student at Başkent University  
 
 
-<p align="left">
-  <a href="mailto:devecitaylan@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40"/>
-  </a>
-  <a href="https://linkedin.com/in/taylandevci" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>
-  </a>
-</p>
-
-
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/taylan-deveci/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devecitaylan@gmail.com) 
 
 ### 🛠 Tech Stack
 
@@ -36,4 +28,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=taylandeveci&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=taylandeveci&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=taylandeveci&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
