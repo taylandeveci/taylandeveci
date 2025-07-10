@@ -25,12 +25,8 @@
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/></a>
 </p>
 
-
-
-
-
-
-### 📊 GitHub Stats
-![Taylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylandeveci&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylandeveci&layout=compact&theme=radical)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=taylandeveci&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=taylandeveci&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=taylandeveci&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
