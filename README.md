@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Taylan Deveci</h1>
-<h3 align="center">A passionate Computer Engineering student</h3>
+<h1 align="left"> Taylan Deveci</h1>
+<h3 align="left">A passionate Computer Engineering student</h3>
 - 🎓 3rd year Computer Engineering student at Başkent University  
 
 
