@@ -4,10 +4,12 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/taylan-deveci/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devecitaylan@gmail.com) 
 
-### Personal Website
-[![Website](https://img.shields.io/badge/Visit%20My%20Website-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://taylandeveci.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taylan-deveci/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devecitaylan@gmail.com)
+[![Website](https://img.shields.io/badge/Website-1E90FF?logo=google-chrome&logoColor=white)](https://taylandeveci.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/taylandeveci)
+
 
 ### 🛠 Tech Stack
 
