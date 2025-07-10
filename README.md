@@ -5,12 +5,13 @@
 
 <p align="left">
   <a href="mailto:devecitaylan@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40"/>
   </a>
   <a href="https://linkedin.com/in/taylandevci" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>
   </a>
 </p>
+
 
 
 ### 🛠 Tech Stack
