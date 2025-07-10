@@ -3,9 +3,15 @@
 - 🎓 3rd year Computer Engineering student at Başkent University  
 
 
-### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taylan-deveci/)
-[![Email](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:devecitaylan@gmail.com)
+<p align="left">
+  <a href="mailto:devecitaylan@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" width="40" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/taylandevci" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  </a>
+</p>
+
 
 ### 🛠 Tech Stack
 
