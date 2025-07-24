@@ -26,7 +26,7 @@
 ## 📚 Frameworks & Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,mysql,expo,git,bootstrap,react,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=dotnet,mysql,git,bootstrap,react,androidstudio,expo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="48" height="48"/>
 </p>
 
