@@ -1,5 +1,5 @@
 <h1 align="center">Taylan Deveci</h1>
-<h3 align="center">✨ A passionate Computer Engineering student ✨</h3>
+<h3 align="center"> A passionate Computer Engineering student </h3>
 
 <p align="center">
   🎓 3rd-year Computer Engineering student at <strong>Başkent University</strong>
