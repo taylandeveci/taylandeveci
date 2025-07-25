@@ -12,7 +12,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/taylan-deveci/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
   <a href="mailto:devecitaylan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"></a>
-<a href="https://taylandeveci.github.io/"><img src="https://img.shields.io/badge/Website-1E90FF?logo=internet-explorer&logoColor=white" alt="Website"></a>
+<a href="https://taylandeveci.github.io/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlechrome/googlechrome-original.svg" alt="Website" width="40" height="40"/>
+</a>
 </p>
 
 ---
