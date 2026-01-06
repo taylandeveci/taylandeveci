@@ -2,7 +2,7 @@
 <h3 align="center"> A passionate Computer Engineering student </h3>
 
 <p align="center">
-  🎓 3rd-year Computer Engineering student at <strong>Başkent University</strong>
+  Computer Engineering student at <strong>Başkent University</strong>
 </p>
 
 ---
